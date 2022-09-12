@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi I'm a student of the Ai department in Gachon University. 👋
+### Welcome to my profile
 
 <!--
 **Jaeyoon95/Jaeyoon95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
